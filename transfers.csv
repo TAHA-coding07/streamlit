@@ -1,0 +1,14 @@
+Transfer ID,File Name,Sender Device,Receiver Device,Owner Name,File Size (MB),Transfer Date,Connection Type,Transfer Status,Encryption,Notes
+HT0001,Project_Report.pdf,OPPO A54,Laptop MSI,Ahmed Hassan,24.5,2024-11-02,WiFi Direct,Completed,Yes,Urgent document shared for review
+HT0002,Vacation_Photos.zip,Samsung Galaxy S21,IPad Air,Salma Mostafa,150.2,2024-11-03,Bluetooth,Completed,No,Family pictures collection
+HT0003,Music_Album.mp3,Laptop Dell,Xiaomi Redmi Note 12,Mohamed Ali,85.0,2024-11-04,Hotspot,Completed,Yes,Playlist for the trip
+HT0004,Database_Backup.sql,Server Rack,External HDD,Eng. Omar Farouk,1200.5,2024-11-05,WiFi Direct,Pending,Yes,Weekly backup Pending
+HT0005,Presentation_Slides.pptx,IPhone 13,HP ProBook,Reem Youssef,12.8,2024-11-06,NFC,Completed,No,Final presentation for clients
+HT0006,Lab_Results.pdf,Huawei P40,Laptop Lenovo,Dr. Nour El-Din,8.4,2024-11-07,Bluetooth,Completed,Yes,Medical lab analysis
+HT0007,Video_Tutorial.mp4,Tablet iPad,Smart TV Samsung,Mostafa Gamal,450.0,2024-11-08,WiFi Direct,Failed,Yes,Transfer interrupted due to range
+HT0008,Software_Setup.exe,PC Gamer,USB Flash Drive,Karim Adel,320.6,2024-11-09,Hotspot,Completed,No,Installation files for friends
+HT0009,Invoice_Invoice.pdf,Laptop ASUS,Printer Canon,Mariam Adel,2.1,2024-11-10,Bluetooth,Failed,No,Printer out of paper
+HT0010,Team_Photos.zip,OnePlus 9,Samsung Tablet,Aya Ibrahim,96.3,2024-11-11,WiFi Direct,Completed,Yes,Team building event photos
+HT0011,Research_Paper.docx,Laptop Acer,IPhone 14,Prof. Hany Salah,5.7,2024-11-12,NFC,Pending,Yes,For journal submission
+HT0012,Backup_Archive.tar,Workstation,Network Drive,Eng. Tarek Fathy,2400.0,2024-11-13,WiFi Direct,Completed,Yes,Monthly archive backup
+ht0020,report.png,faseeh,9945622433,taha,0.8,2026-08-11,Bluetooth,Pending,Yes,hlooooo
